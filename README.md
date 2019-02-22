@@ -24,8 +24,5 @@ On [IV-2018/IV2018-INSTALL/IV2018/DOCS/setup/SETUP.sh](https://github.com/clausi
 
 Some directories need special access permissions, the script [IV-2018/IV2018-INSTALL/IV2018/DOCS/setup/permissions.sh](https://github.com/clausiusreis/IV-2018/blob/master/IV2018-INSTALL/IV2018/DOCS/setup/permissions.sh) set the file permissions dinamically given the path where the IV2018, SMARTY and FILES were copied as input.
 
-## Financial support 
-CAPES, CNPq (301847/2017-7) and FAPESP (2017/05838-3)
-
 ## Acknowledgment
 We like to acknowledge the financial support of the Coordination for the Improvement of Higher Education Personnel (CAPES), São Paulo State Research Foundation (FAPESP grants 2017/05838-3 and the National Council for Scientific and Technological Development (CNPq grant 301847/2017-7). The views expressed do not reflect the official policy or position of either CAPES, FAPESP or CNPq.
