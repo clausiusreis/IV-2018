@@ -1,0 +1,46 @@
+
+<!-- jQuery -->
+<script src="jquery-latest.min.js"></script>
+
+<!-- MiniColors -->
+<script src="jquery.minicolors.js"></script>
+<link rel="stylesheet" href="jquery.minicolors.css">
+
+<div id="colorPicker">
+	<input type="text" id="rgb" class="demo" data-format="rgb" value="rgb(255, 255, 255)">
+</div>
+<br><br>
+<input type="button" value="Read vallue" onclick="readValue();"><br><br>
+<input type="button" value="Input Red" onclick="inputValue('rgb(255, 0, 0)');"><br>
+<input type="button" value="Input Green" onclick="inputValue('rgb(0, 255, 0)');"><br>
+<input type="button" value="Input Blue" onclick="inputValue('rgb(0, 0, 255)');"><br>
+
+<script>
+
+	$('#colorPicker').minicolors({
+		control: 'wheel',
+		defaultValue: "rgb(255, 255, 255)",
+		format: 'rgb',
+		inline: 'true',
+		letterCase: 'lowercase'
+	});
+    
+    function readValue(){
+    	console.log( $('#colorPicker').minicolors('rgbString') );
+    	return $('#colorPicker').minicolors('rgbString');
+    };
+    
+    function inputValue(val){
+    	$('#colorPicker').minicolors('value', val);
+    };
+</script>
+
+<script>
+	inputValue('rgb(255, 255, 255)');
+</script>
+
+<!-- 
+Red: 	top: 75px; left: 0px;
+Green: 	top: 10.0481px; left: 112.5px;
+Blue: 	top: 139.952px; left: 112.5px;	
+ -->

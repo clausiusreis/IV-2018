@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//scripts/Python/Features.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_FeaturesExtraction.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_FeaturesExtraction_1.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_FeaturesLoopExtractor.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_NMFLoop_Components.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_SpectrogramLoopExtractor.py=utf-8
+encoding//scripts/Python/SoundscapeVICG_UnifiedCSVManipulator.py=utf-8
+encoding//scripts/Python/UnifiedCSVGenerator.py=utf-8
+encoding//scripts/Python/radvizMatrix1.py=utf-8
+encoding//scripts/Python/radvizMatrix2.py=utf-8

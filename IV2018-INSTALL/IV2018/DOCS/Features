@@ -1,0 +1,48 @@
+ACI 				(Towsey)
+ADI 				(Towsey) 
+AEI 				(Towsey) 
+BIO 				(Towsey) 
+NDSI				(Towsey)
+NDSI_Anthrophony 	(+ Towsey)
+NDSI_Biophony 		(+ Towsey)
+H 					(Towsey: Total Entropy)
+THHil				(Towsey: Temporal Entropy)
+THAbs				(Towsey: Temporal Entropy)
+ZCRMean. ZCRMedian	(Towsey)
+RMSHil,RMSAbs 		(Towsey)
+spec_cent			(Towsey)
+wave_SNR			(+ Towsey)
+MFCC				(Essentia)
+
+
+
+
+FreqP1
+FreqM
+FreqP2
+FreqIPR
+CrestFactor
+CrestValue
+CSH_Mean
+CSH_Median
+RoughnessSpectrum
+RoughnessTimeWave
+RugositySpectrum
+RugosityTimeWave
+MedianAmpHil
+MedianAmpAbs
+TWaveEnvMean
+TWaveEnvMedian
+spec_mean
+spec_sd
+spec_median
+spec_sem
+spec_Q25
+spec_Q75
+spec_IQR
+spec_cent
+spec_skewness
+spec_kurtosis
+spec_sfm
+spec_sh
+SPL
