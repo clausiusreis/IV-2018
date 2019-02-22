@@ -6,7 +6,12 @@ Studies in soundscape ecology can generate large volumes of audio recordings col
    Clausius Duque G. Reis (UFV/USP-SC) - clausiusreis@gmail.com\
    Thalisson Nobre Santos (USP-SC)\
    Maria Cristina Ferreira de Oliveira (USP-SC)
-       
+
+## Screenshots
+![alt text](https://github.com/clausiusreis/IV-2018/blob/master/Images/IV2018-1.png?raw=true)
+
+![alt text](https://github.com/clausiusreis/IV-2018/blob/master/Images/IV2018-2.png?raw=true)
+
 ## Citation
 Research published about the content of this framework:
 
@@ -15,9 +20,9 @@ Research published about the content of this framework:
 ## Installation procedures
 Copy the content of IV2018-INSTALL (IV2018, SMARTY and FILES) to an Apache+PHP server of your choice.
 
-On [IV2018/DOCS/setup/SETUP.sh](https://github.com/clausiusreis/IV2018/blob/master/IV2018/DOCS/setup/SETUP.sh) can be found a script to help with the setup process of the libraries. The framework was designed to work on a Linux Mint 19.1 Cinnamon machine with an Apache+PHP server. 
+On [IV-2018/IV2018-INSTALL/IV2018/DOCS/setup/SETUP.sh](https://github.com/clausiusreis/IV-2018/blob/master/IV2018-INSTALL/IV2018/DOCS/setup/SETUP.sh) can be found a script to help with the setup process of the libraries. The framework was designed to work on a Linux Mint 19.1 Cinnamon machine with an Apache+PHP server. 
 
-Some directories need special access permissions, the script [IV2018/IV2018/DOCS/setup/permissions.sh](https://github.com/clausiusreis/IV2018/blob/master/IV2018/DOCS/setup/permissions.sh) set the file permissions dinamically given the path where the IV2018, SMARTY and FILES were copied as input.
+Some directories need special access permissions, the script [IV-2018/IV2018-INSTALL/IV2018/DOCS/setup/permissions.sh](https://github.com/clausiusreis/IV-2018/blob/master/IV2018-INSTALL/IV2018/DOCS/setup/permissions.sh) set the file permissions dinamically given the path where the IV2018, SMARTY and FILES were copied as input.
 
 ## Financial support 
 CAPES, CNPq (301847/2017-7) and FAPESP (2017/05838-3)
